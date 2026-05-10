@@ -39,11 +39,6 @@ Designed to improve workflow, manage project issues efficiently, and provide a s
 - Database Management
 
 ---
-## 📸 Screenshots (Add your project screenshots here) Example:
-md
-![Dashboard](images/dashboard.png)
-
----
 
 ## ⚡ Installation
 
