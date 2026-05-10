@@ -1,87 +1,63 @@
 # 🐞 Bug Tracker System
 
-A simple and efficient web-based Bug Tracking System developed to manage software bugs and improve team collaboration during software development.
+A web-based Bug Tracking System built to simplify bug reporting, assignment, and tracking during software development.
 
-## 📌 Overview
-
-The Bug Tracker System helps users:
-- Report software bugs
-- Assign bugs to developers
-- Track bug status
-- Manage project workflow efficiently
-
-The system supports different user roles such as:
-- Admin
-- Developer
-- Tester
-
-This project demonstrates practical implementation of DBMS concepts along with frontend and backend web development.
+Designed to improve workflow, manage project issues efficiently, and provide a smooth experience for tracking bugs in real time.
 
 ---
 
 ## 🚀 Features
 
-- User-friendly dashboard
-- Report new bugs with details
-- Assign bugs to developers
-- Update bug status (Open, In Progress, Fixed)
-- Structured database management
-- Role-based workflow management
+✨ Report and manage bugs easily  
+👨‍💻 Assign bugs to developers  
+📊 Track bug progress in real time  
+🔄 Update bug status (Open, In Progress, Fixed)  
+🗂️ Organized dashboard for better workflow  
+🔐 Role-based management system  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
 - HTML
 - CSS
 - JavaScript
-
-### Backend
 - PHP
-
-### Database
 - MySQL
-
-### Tools & Environment
 - XAMPP
 - phpMyAdmin
 - VS Code
 
 ---
 
-## 🧠 DBMS Concepts Used
-
-- Tables
-- Primary Keys
-- Foreign Keys
-- SQL Queries
-- JOIN Operations
-- Normalization
-
----
-
 ## 📂 Modules
 
-### Dashboard
-Displays total bugs and their current status.
+- Dashboard
+- Report Bug
+- Assign Bug
+- Update Status
+- Database Management
 
-### Report Bug
-Allows users to report new bugs into the system.
-
-### Assign Bug
-Admin can assign bugs to developers.
-
-### Update Status
-Developers can update bug progress.
-
-### Database Management
-Stores and manages all project data using MySQL.
+---
+## 📸 Screenshots (Add your project screenshots here) Example:
+md
+![Dashboard](images/dashboard.png)
 
 ---
 
-## 📸 Screenshots
+## ⚡ Installation
 
-Example:
-```md
-![Dashboard](images/dashboard.png)
+1. Install XAMPP  
+2. Start Apache & MySQL  
+3. Move project folder to `htdocs`  
+4. Import SQL database using phpMyAdmin  
+5. Run using:
+
+```bash
+localhost/project-folder-name
+```
+---
+
+## 📘 Note
+
+This project was developed for learning and academic purposes.
