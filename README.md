@@ -74,7 +74,7 @@ localhost/project-folder-name
 
 ---
 
-## Screenshots
+## 📱Screenshots
 <img width="1919" height="920" alt="Screenshot 2026-04-08 085645" src="https://github.com/user-attachments/assets/f508f311-9239-4a2a-b3d0-8901ef7bd5c0" />
 <img width="33%" alt="Screenshot 2026-04-08 092611" src="https://github.com/user-attachments/assets/90f77c07-4f57-482e-9d00-176aa5aab083" />
 <img width="33%" alt="Screenshot 2026-04-08 092603" src="https://github.com/user-attachments/assets/61499930-9015-45d2-8cd1-99a656a60c80" />
