@@ -51,8 +51,25 @@ Designed to improve workflow, manage project issues efficiently, and provide a s
 ```bash
 localhost/project-folder-name
 ```
+
 ---
 
-## 📘 Note
+## 🔄 Workflow
 
-This project was developed for learning and academic purposes.
+1. User reports a bug into the system  
+2. Bug details are stored in the database  
+3. Admin assigns the bug to a developer  
+4. Developer updates the bug status  
+5. Dashboard reflects updated bug progress  
+
+---
+
+## 🎯 Objectives
+
+- Simplify bug management process
+- Improve project workflow
+- Track software issues efficiently
+- Demonstrate DBMS implementation
+- Provide a modern and user-friendly interface
+
+---
